@@ -81,10 +81,10 @@
 
 ###
 
-<p align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/Red0MFHA?label=Follow&style=for-the-badge)
-  ![GitHub stars](https://img.shields.io/github/stars/Red0MFHA?style=for-the-badge)
-</p>
+<div align="left"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Red0MFHA&theme=dracula" alt="GitHub Profile Stats" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Red0MFHA&theme=dracula" alt="Top Languages" /> 
+</div>
 
 
 
