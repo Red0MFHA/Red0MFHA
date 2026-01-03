@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center"> <strong>Focused on building AI-driven applications and agentic AI workflows.</strong></h2>
+<h3 align="center"> <strong>Focused on building AI-driven applications and agentic AI workflows.</strong></h3>
 
 ###
 
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
-
+---
 ###
 
 <br clear="both">
