@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Computer Science student focused on game development, systems programming,<br>and AI-driven applications. Experienced with C++, C#, Python, RAG pipelines,<br>Google ADK, and Streamlit. Passionate about building high-performance projects<br>with real-world impact.</p>
+<h3 align="center"> <strong>Focused on building AI-driven applications, with a background in systems programming and game development.</strong>strong</h3>
 
 ###
 
