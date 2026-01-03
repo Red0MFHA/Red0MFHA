@@ -2,9 +2,9 @@
 <!--
 <h2 align="center">Hi 👋! I'm Fawad ... .Computer Science Undergraduate .... Game Developer .... Systems & AI Enthusiast .... Machine Learning ....</h2>
 -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF4500&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B!+I'm+Fawad;Computer+Science+Undergraduate;Systems+Thinker;AI+Enthusiast;Machine+Learning;Game+Developer" alt="Typing SVG"/>
-</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FF4500&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B!+I'm+Fawad;Computer+Science+Undergraduate;Systems+Thinker;AI+Enthusiast;Machine+Learning;Game+Developer" alt="Typing SVG"/>
+</h2>
 
 ###
 
@@ -87,6 +87,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 </div>
 
+---
 <!--
 ###
 
@@ -97,7 +98,7 @@
 
 </div>
 
--->
+
 
 
 ###
@@ -107,7 +108,7 @@
 </div>
 
 ###
-
+-->
 <br clear="both">
 
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Red0MFHA/Red0MFHA/output/pacman-contribution-graph-dark.svg" />
