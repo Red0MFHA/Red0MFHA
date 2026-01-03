@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center"> <strong>Focused on building AI-driven applications and agentic AI workflows.</strong></h3>
+<h2 align="center"> <strong>Focused on building AI-driven applications and agentic AI workflows.</strong></h2>
 
 ###
 
