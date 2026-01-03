@@ -79,9 +79,9 @@
 ###
 
 <div align="left"> 
-  <img  align="center" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Red0MFHA&theme=dracula" alt="GitHub Profile Stats" /> 
-  <img align="left" height="150"  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Red0MFHA&theme=dracula" alt="Top Languages" /> 
-  <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZnbmgxajlkcmJqOTJ5aGh1NTAwbGV4eDB6bGhwM2V6cXdnNnhydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NSzHiAwAcazs7dcDr9/giphy.gif"  />
+  <img  align="center" height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Red0MFHA&theme=dracula" alt="GitHub Profile Stats" /> 
+  <img align="left" height="200"  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Red0MFHA&theme=dracula" alt="Top Languages" /> 
+  <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZnbmgxajlkcmJqOTJ5aGh1NTAwbGV4eDB6bGhwM2V6cXdnNnhydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NSzHiAwAcazs7dcDr9/giphy.gif"  />
 
 </div>
 ###
