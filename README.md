@@ -37,7 +37,7 @@
 
 ---
 
-### Technology Stack
+### 🧑🏻‍💻 Technology Stack
 
 
 
@@ -87,6 +87,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 </div>
 
+
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    C++ | Agentic AI | Google ADK | Pinecone | Python | Streamlit | Unity | Blender | Game Development
+  </marquee>
+</p>
 ---
 <!--
 ###
