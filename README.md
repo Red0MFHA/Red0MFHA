@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Computer Science student focused on game development, systems programming,<br>and AI-driven applications. Experienced with C++, C#, Python, RAG pipelines,<br>Google ADK, and Streamlit. Passionate about building high-performance projects<br>with real-world impact.</p>
+<p align="center">Computer Science student focused on game development, systems programming,<br>and AI-driven applications. Experienced with C++, C#, Python, RAG pipelines,<br>Google ADK, and Streamlit. Passionate about building high-performance projects<br>with real-world impact.</p>
 
 ###
 
@@ -82,8 +82,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Red0MFHA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Red0MFHA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Red0MFHA&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red0MFHA&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
 ###
