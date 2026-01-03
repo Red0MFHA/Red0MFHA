@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center"> <strong>Focused on building AI-driven applications, with a background in systems programming and game development.</strong>strong</h3>
+<h3 align="center"> <strong>Focused on building AI-driven applications, with a background in systems programming and game development.</strong></h3>
 
 ###
 
