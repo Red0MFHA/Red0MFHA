@@ -33,9 +33,9 @@
   </a>
 </div>
 ---
-Technology Stack
+###Technology Stack
 ---
-###
+
 
 <br clear="both">
 
