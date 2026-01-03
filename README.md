@@ -12,7 +12,7 @@
 
 ---
 
-## 🔗 Connect with Me
+### 🔗 Connect with Me
 
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhammadfawadh@gmail.com" target="_blank">
