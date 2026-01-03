@@ -88,12 +88,9 @@
 </div>
 
 
-
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    C++ | Agentic AI | Google ADK | Pinecone | Python | Streamlit | Unity | Blender | Game Development | RAG | Blender | Illustrator | Photoshop | ABC | EFG | HIJ | LMK
-  </marquee>
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=00FF00&center=true&width=800&lines=C++|Agentic+AI|Google+ADK|Pinecone|Python|Streamlit|Unity|Blender|Game+Development|RAG|Illustrator|Photoshop|ABC|EFG|HIJ|LMK" alt="Skills Typing" />
+</h3>
 
 ---
 
