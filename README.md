@@ -91,7 +91,7 @@
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
-    C++ | Agentic AI | Google ADK | Pinecone | Python | Streamlit | Unity | Blender | Game Development
+    C++ | Agentic AI | Google ADK | Pinecone | Python | Streamlit | Unity | Blender | Game Development | RAG | Blender | Illustrator | Photoshop | ABC | EFG | HIJ | LMK
   </marquee>
 </p>
 
