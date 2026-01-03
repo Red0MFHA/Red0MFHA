@@ -32,8 +32,11 @@
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
+
 ---
-###Technology Stack
+
+### Technology Stack
+
 ---
 
 
