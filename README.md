@@ -75,7 +75,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 </div>
 
-
+<!--
 ###
 
 <div align="center"> 
@@ -85,7 +85,7 @@
 
 </div>
 
-
+-->
 
 
 ###
