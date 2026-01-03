@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋! I'm Fawad ... .Computer Science Undergraduate .... Game Developer .... Systems & AI Enthusiast .... Machine Learning ....</h2>
 -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FF4500&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B!+I'm+Fawad;Computer+Science+Undergraduate;Systems+Thinker;AI+Enthusiast;Machine+Learning;Game+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FF4500&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B!+I'm+Fawad;Computer+Science+Undergraduate;Systems+Thinker;AI+Enthusiast;Aspiring+ML+Engineer;Game+Developer" alt="Typing SVG"/>
 </h2>
 
 ###
