@@ -81,10 +81,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Red0MFHA&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red0MFHA&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Red0MFHA&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red0MFHA&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+
 
 ###
 
