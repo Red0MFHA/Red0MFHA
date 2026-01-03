@@ -96,7 +96,7 @@
 
 <br clear="both">
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Red0MFHA/Red0MFHA/output/pacman-contribution-graph.svg" />
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Red0MFHA/Red0MFHA/output/pacman-contribution-graph-dark.svg" />
 
 
 ###
